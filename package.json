@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "parcel": "^2.8.0"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
